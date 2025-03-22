@@ -1,28 +1,30 @@
 <main class="full-width-embed">
-    <div style="height:50vh"></div>
+    <div style="height:50vh;background-color: gray;"></div>
      <section id="intro">
       <h2>Montlake headline</h2>
+      <p class="chatter">XXXXX xxxxx xxxx</p>
       
      </section>
 
      <section id="scrolly">
-       <div class="sticky-thing">
+       <div class="sticky-thing"">
          
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_1.jpg">
-         
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_2.jpg">
-         
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_3.jpg">
-         
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_4.jpg">
-
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_5.jpg">
-
-         <img decoding="async" class="asset" src="https://projects-staging.seattletimes.com/assets/Montlake_v2_Page_5.jpg">
+        <% csv.montlake.forEach(function(item, i){ %>
+          <img decoding="async" class="asset" src="<%= item.image %>">
+        <% }) %>
          
        </div>
        <article id="scroller">
+
+        <% csv.montlake.forEach(function(item, i){ %>
+          <div class="step" data-step="<%= i %>"> 
+            <p><strong>1850 </strong><%= item.caption %></p>
+            </div>
+        <% }) %>
+
+<!-- 
          <div class="step" data-step="1"> 
+          
           
           <p><strong>1850 </strong>Caption information</p>
          </div>
@@ -36,7 +38,7 @@
          </div>
          <div class="step" data-step="4">
           
-          <p><strong>2000</strong>Caption information</p>
+          <p><strong>2000 </strong>Caption information XXXX </p>
          </div>
          <div class="step" data-step="5">
           
@@ -46,7 +48,8 @@
           
             <p><strong>2050 </strong>Caption information</p>
            </div>
-         <div class="step" data-step="7">
+          -->
+          <div class="step" data-step="7">
           
             <p><strong></strong></p>
            </div>
