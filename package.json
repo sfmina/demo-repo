@@ -32,6 +32,7 @@
     "grunt-contrib-connect": "^5.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "less": "^3.9.0",
+    "maplibre-gl": "^5.2.0",
     "mime": "^2.4.2",
     "opn": "^5.4.0",
     "request": "^2.88.2",
