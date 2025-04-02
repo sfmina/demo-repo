@@ -31,16 +31,24 @@
         padding: 25px 50px;
         line-height: 25px;
         border-bottom: 1px solid #ddd;
-        opacity: 0.25;
+        opacity: 0.2;
         font-size: 13px;
         margin-bottom: 600px;
     }
     section.active {
         opacity: 1;
     }
+    section:first-child {
+        margin-top: 200px;
+    }
+    
     section:last-child {
         border-bottom: none;
         margin-bottom: 800px;
+    }
+    .marker {
+      background-color: rgba(255, 0, 0, 0.372);
+      border-radius: 50%;
     }
   </style>
   <body>
@@ -52,11 +60,7 @@
       
       <div id='map' style='position:fixed;width: 50vw; height: 100vh;'></div>
       <div id="features">
-        <section id="start" class="active"> 
-            <h3>Xxxx</h3>
-              <p><strong>Xxxxx</strong></p>
-              <p>Xxxxx</p>
-          </section>
+        
         <% csv.heptathlon.forEach(function(item, i){ %>
             <section id="<%= item.Time %>" class="active"> 
               <h3><%= item.Time %></h3>
@@ -76,7 +80,7 @@
   container: 'map',
   style: 'https://tiles.openfreemap.org/styles/positron', // stylesheet location
   center: [-122.3390901, 47.62743194], // starting position [lng, lat]
-  zoom: 20,
+  zoom: 15,
   bearing: 27,
   pitch: 45 // starting zoom
 });
@@ -98,7 +102,7 @@ const geojson = {
             {
                 'type': 'Feature',
                 'properties': {
-                    'iconSize': [60, 60]
+                    'iconSize': [30, 30]
                 },
                 'geometry': {
                     'type': 'Point',
@@ -114,24 +118,14 @@ geojson.features.forEach((marker) => {
         // create a DOM element for the marker
         const el = document.createElement('div');
         el.className = 'marker';
-        el.style.backgroundImage =
-            `url(https://picsum.photos/${
-                marker.properties.iconSize.join('/')
-            }/)`;
         el.style.width = `${marker.properties.iconSize[0]}px`;
         el.style.height = `${marker.properties.iconSize[1]}px`;
-
-        el.addEventListener('click', () => {
-            window.alert(marker.properties.message);
-        });
 
         // add marker to map
         new maplibregl.Marker({element: el})
             .setLngLat(marker.geometry.coordinates)
             .addTo(map);
     });
-
-
 
 // On every scroll event, check which element is on screen
 window.onscroll = function () {
@@ -145,7 +139,7 @@ window.onscroll = function () {
   }
 };
 
-let activeChapterName = 'start';
+let activeChapterName = '6 a.m.';
 function setActiveChapter(chapterName) {
   if (chapterName === activeChapterName) return;
 
