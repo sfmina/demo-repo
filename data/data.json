@@ -1,0 +1,2508 @@
+{
+   "title":"Men’s World Cup 2026",
+   "source":"FM Men's World Cup Glance....html",
+   "groups":{
+      "A":{
+         "name":"Group A",
+         "standings":[
+            {
+               "team":"Mexico",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":2,
+               "ga":0,
+               "pts":3
+            },
+            {
+               "team":"Korea Republic",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":2,
+               "ga":1,
+               "pts":3
+            },
+            {
+               "team":"Czechia",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":1,
+               "ga":2,
+               "pts":0
+            },
+            {
+               "team":"South Africa",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":0,
+               "ga":2,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Mexico 2, South Africa 0",
+               "home":"Mexico",
+               "away":"South Africa",
+               "homeScore":2,
+               "awayScore":0,
+               "time":"",
+               "status":"final",
+               "section":"Group A",
+               "date":"Thursday, June 11"
+            },
+            {
+               "raw":"Korea Republic (Republic of Korea) 2, Czechia 1",
+               "home":"Korea Republic",
+               "away":"Czechia",
+               "homeScore":2,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group A",
+               "date":"Thursday, June 11"
+            },
+            {
+               "raw":"Czechia vs. South Africa, 12 p.m.",
+               "home":"Czechia",
+               "away":"South Africa",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"12 p.m.",
+               "status":"scheduled",
+               "section":"Group A",
+               "date":"Thursday, June 18"
+            },
+            {
+               "raw":"Mexico vs. Korea Republic (Republic of Korea), 9 p.m.",
+               "home":"Mexico",
+               "away":"Korea Republic",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group A",
+               "date":"Thursday, June 18"
+            },
+            {
+               "raw":"Czechia vs. Mexico, 9 p.m.",
+               "home":"Czechia",
+               "away":"Mexico",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group A",
+               "date":"Wednesday, June 24"
+            },
+            {
+               "raw":"South Africa vs. Korea Republic (Republic of Korea), 9 p.m.",
+               "home":"South Africa",
+               "away":"Korea Republic",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group A",
+               "date":"Wednesday, June 24"
+            }
+         ]
+      },
+      "B":{
+         "name":"Group B",
+         "standings":[
+            {
+               "team":"Switzerland",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            },
+            {
+               "team":"Canada",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            },
+            {
+               "team":"Qatar",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            },
+            {
+               "team":"Bosnia and Herzegovina",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Canada 1, Bosnia and Herzegovina (Bosnia & Herzegovina) 1",
+               "home":"Canada",
+               "away":"Bosnia and Herzegovina",
+               "homeScore":1,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group B",
+               "date":"Friday, June 12"
+            },
+            {
+               "raw":"Qatar 1, Switzerland 1",
+               "home":"Qatar",
+               "away":"Switzerland",
+               "homeScore":1,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group B",
+               "date":"Saturday, June 13"
+            },
+            {
+               "raw":"Switzerland vs. Bosnia and Herzegovina (Bosnia & Herzegovina), 3 p.m.",
+               "home":"Switzerland",
+               "away":"Bosnia and Herzegovina",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group B",
+               "date":"Thursday, June 18"
+            },
+            {
+               "raw":"Canada vs. Qatar, 6 p.m.",
+               "home":"Canada",
+               "away":"Qatar",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group B",
+               "date":"Thursday, June 18"
+            },
+            {
+               "raw":"Switzerland vs. Canada, 3 p.m.",
+               "home":"Switzerland",
+               "away":"Canada",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group B",
+               "date":"Wednesday, June 24"
+            },
+            {
+               "raw":"Bosnia and Herzegovina (Bosnia & Herzegovina) vs. Qatar, 3 p.m.",
+               "home":"Bosnia and Herzegovina",
+               "away":"Qatar",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group B",
+               "date":"Wednesday, June 24"
+            }
+         ]
+      },
+      "C":{
+         "name":"Group C",
+         "standings":[
+            {
+               "team":"Scotland",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":1,
+               "ga":0,
+               "pts":3
+            },
+            {
+               "team":"Morocco",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            },
+            {
+               "team":"Brazil",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":1,
+               "ga":1,
+               "pts":1
+            },
+            {
+               "team":"Haiti",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":0,
+               "ga":1,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Brazil 1, Morocco 1",
+               "home":"Brazil",
+               "away":"Morocco",
+               "homeScore":1,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group C",
+               "date":"Saturday, June 13"
+            },
+            {
+               "raw":"Haiti 0, Scotland 1",
+               "home":"Haiti",
+               "away":"Scotland",
+               "homeScore":0,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group C",
+               "date":"Saturday, June 13"
+            },
+            {
+               "raw":"Scotland vs. Morocco, 6 p.m.",
+               "home":"Scotland",
+               "away":"Morocco",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group C",
+               "date":"Friday, June 19"
+            },
+            {
+               "raw":"Brazil vs. Haiti, 8:30 p.m.",
+               "home":"Brazil",
+               "away":"Haiti",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"8:30 p.m.",
+               "status":"scheduled",
+               "section":"Group C",
+               "date":"Friday, June 19"
+            },
+            {
+               "raw":"Scotland vs. Brazil, 6 p.m.",
+               "home":"Scotland",
+               "away":"Brazil",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group C",
+               "date":"Wednesday, June 24"
+            },
+            {
+               "raw":"Morocco vs. Haiti, 6 p.m.",
+               "home":"Morocco",
+               "away":"Haiti",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group C",
+               "date":"Wednesday, June 24"
+            }
+         ]
+      },
+      "D":{
+         "name":"Group D",
+         "standings":[
+            {
+               "team":"United States",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":4,
+               "ga":1,
+               "pts":3
+            },
+            {
+               "team":"Australia",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":2,
+               "ga":0,
+               "pts":3
+            },
+            {
+               "team":"Turkey",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":0,
+               "ga":2,
+               "pts":0
+            },
+            {
+               "team":"Paraguay",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":1,
+               "ga":4,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"United States 4, Paraguay 1",
+               "home":"United States",
+               "away":"Paraguay",
+               "homeScore":4,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group D",
+               "date":"Friday, June 12"
+            },
+            {
+               "raw":"Australia 2, Turkey (Turkiye) 0",
+               "home":"Australia",
+               "away":"Turkey",
+               "homeScore":2,
+               "awayScore":0,
+               "time":"",
+               "status":"final",
+               "section":"Group D",
+               "date":"Sunday, June 14"
+            },
+            {
+               "raw":"United States vs. Australia, 3 p.m.",
+               "home":"United States",
+               "away":"Australia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group D",
+               "date":"Friday, June 19"
+            },
+            {
+               "raw":"Turkey (Turkiye) vs. Paraguay, 11 p.m.",
+               "home":"Turkey",
+               "away":"Paraguay",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"11 p.m.",
+               "status":"scheduled",
+               "section":"Group D",
+               "date":"Friday, June 19"
+            },
+            {
+               "raw":"Turkey (Turkiye) vs. United States, 10 p.m.",
+               "home":"Turkey",
+               "away":"United States",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group D",
+               "date":"Thursday, June 25"
+            },
+            {
+               "raw":"Paraguay vs. Australia, 10 p.m.",
+               "home":"Paraguay",
+               "away":"Australia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group D",
+               "date":"Thursday, June 25"
+            }
+         ]
+      },
+      "E":{
+         "name":"Group E",
+         "standings":[
+            {
+               "team":"Germany",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":7,
+               "ga":1,
+               "pts":3
+            },
+            {
+               "team":"Ivory Coast",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":1,
+               "ga":0,
+               "pts":3
+            },
+            {
+               "team":"Ecuador",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":0,
+               "ga":1,
+               "pts":0
+            },
+            {
+               "team":"Curacao",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":1,
+               "ga":7,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Germany 7, Curacao 1",
+               "home":"Germany",
+               "away":"Curacao",
+               "homeScore":7,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group E",
+               "date":"Sunday, June 14"
+            },
+            {
+               "raw":"Ivory Coast (Cote d’Ivoire) 1, Ecuador 0",
+               "home":"Ivory Coast",
+               "away":"Ecuador",
+               "homeScore":1,
+               "awayScore":0,
+               "time":"",
+               "status":"final",
+               "section":"Group E",
+               "date":"Sunday, June 14"
+            },
+            {
+               "raw":"Germany vs. Ivory Coast (Cote d’Ivoire), 4 p.m.",
+               "home":"Germany",
+               "away":"Ivory Coast",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"4 p.m.",
+               "status":"scheduled",
+               "section":"Group E",
+               "date":"Saturday, June 20"
+            },
+            {
+               "raw":"Ecuador vs. Curacao, 8 p.m.",
+               "home":"Ecuador",
+               "away":"Curacao",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"8 p.m.",
+               "status":"scheduled",
+               "section":"Group E",
+               "date":"Saturday, June 20"
+            },
+            {
+               "raw":"Ecuador vs. Germany, 4 p.m.",
+               "home":"Ecuador",
+               "away":"Germany",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"4 p.m.",
+               "status":"scheduled",
+               "section":"Group E",
+               "date":"Thursday, June 25"
+            },
+            {
+               "raw":"Curacao vs. Ivory Coast (Cote d’Ivoire), 4 p.m.",
+               "home":"Curacao",
+               "away":"Ivory Coast",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"4 p.m.",
+               "status":"scheduled",
+               "section":"Group E",
+               "date":"Thursday, June 25"
+            }
+         ]
+      },
+      "F":{
+         "name":"Group F",
+         "standings":[
+            {
+               "team":"Sweden",
+               "gp":1,
+               "w":1,
+               "d":0,
+               "l":0,
+               "gf":5,
+               "ga":1,
+               "pts":3
+            },
+            {
+               "team":"Japan",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":2,
+               "ga":2,
+               "pts":1
+            },
+            {
+               "team":"Netherlands",
+               "gp":1,
+               "w":0,
+               "d":1,
+               "l":0,
+               "gf":2,
+               "ga":2,
+               "pts":1
+            },
+            {
+               "team":"Tunisia",
+               "gp":1,
+               "w":0,
+               "d":0,
+               "l":1,
+               "gf":1,
+               "ga":5,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Netherlands 2, Japan 2",
+               "home":"Netherlands",
+               "away":"Japan",
+               "homeScore":2,
+               "awayScore":2,
+               "time":"",
+               "status":"final",
+               "section":"Group F",
+               "date":"Sunday, June 14"
+            },
+            {
+               "raw":"Sweden 5, Tunisia 1",
+               "home":"Sweden",
+               "away":"Tunisia",
+               "homeScore":5,
+               "awayScore":1,
+               "time":"",
+               "status":"final",
+               "section":"Group F",
+               "date":"Sunday, June 14"
+            },
+            {
+               "raw":"Netherlands vs. Sweden, 1 p.m.",
+               "home":"Netherlands",
+               "away":"Sweden",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"1 p.m.",
+               "status":"scheduled",
+               "section":"Group F",
+               "date":"Saturday, June 20"
+            },
+            {
+               "raw":"Tunisia vs. Japan, 12 a.m.",
+               "home":"Tunisia",
+               "away":"Japan",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"12 a.m.",
+               "status":"scheduled",
+               "section":"Group F",
+               "date":"Sunday, June 21"
+            },
+            {
+               "raw":"Tunisia vs. Netherlands, 7 p.m.",
+               "home":"Tunisia",
+               "away":"Netherlands",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7 p.m.",
+               "status":"scheduled",
+               "section":"Group F",
+               "date":"Thursday, June 25"
+            },
+            {
+               "raw":"Japan vs. Sweden, 7 p.m.",
+               "home":"Japan",
+               "away":"Sweden",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7 p.m.",
+               "status":"scheduled",
+               "section":"Group F",
+               "date":"Thursday, June 25"
+            }
+         ]
+      },
+      "G":{
+         "name":"Group G",
+         "standings":[
+            {
+               "team":"Belgium",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Egypt",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"IR Iran",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"New Zealand",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Belgium vs. Egypt, 3 p.m.",
+               "home":"Belgium",
+               "away":"Egypt",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Monday, June 15"
+            },
+            {
+               "raw":"IR Iran (Iran) vs. New Zealand, 9 p.m.",
+               "home":"IR Iran",
+               "away":"New Zealand",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Monday, June 15"
+            },
+            {
+               "raw":"Belgium vs. IR Iran (Iran), 3 p.m.",
+               "home":"Belgium",
+               "away":"IR Iran",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Sunday, June 21"
+            },
+            {
+               "raw":"New Zealand vs. Egypt, 9 p.m.",
+               "home":"New Zealand",
+               "away":"Egypt",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Sunday, June 21"
+            },
+            {
+               "raw":"New Zealand vs. Belgium, 11 p.m.",
+               "home":"New Zealand",
+               "away":"Belgium",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"11 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Friday, June 26"
+            },
+            {
+               "raw":"Egypt vs. IR Iran (Iran), 11 p.m.",
+               "home":"Egypt",
+               "away":"IR Iran",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"11 p.m.",
+               "status":"scheduled",
+               "section":"Group G",
+               "date":"Friday, June 26"
+            }
+         ]
+      },
+      "H":{
+         "name":"Group H",
+         "standings":[
+            {
+               "team":"Spain",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Cape Verde",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Saudi Arabia",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Uruguay",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Spain vs. Cape Verde, 12 p.m.",
+               "home":"Spain",
+               "away":"Cape Verde",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"12 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Monday, June 15"
+            },
+            {
+               "raw":"Saudi Arabia vs. Uruguay, 6 p.m.",
+               "home":"Saudi Arabia",
+               "away":"Uruguay",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Monday, June 15"
+            },
+            {
+               "raw":"Spain vs. Saudi Arabia, 12 p.m.",
+               "home":"Spain",
+               "away":"Saudi Arabia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"12 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Sunday, June 21"
+            },
+            {
+               "raw":"Uruguay vs. Cape Verde, 6 p.m.",
+               "home":"Uruguay",
+               "away":"Cape Verde",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Sunday, June 21"
+            },
+            {
+               "raw":"Uruguay vs. Spain, 8 p.m.",
+               "home":"Uruguay",
+               "away":"Spain",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"8 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Friday, June 26"
+            },
+            {
+               "raw":"Cape Verde vs. Saudi Arabia, 8 p.m.",
+               "home":"Cape Verde",
+               "away":"Saudi Arabia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"8 p.m.",
+               "status":"scheduled",
+               "section":"Group H",
+               "date":"Friday, June 26"
+            }
+         ]
+      },
+      "I":{
+         "name":"Group I",
+         "standings":[
+            {
+               "team":"France",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Senegal",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Iraq",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Norway",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"France vs. Senegal, 3 p.m.",
+               "home":"France",
+               "away":"Senegal",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Tuesday, June 16"
+            },
+            {
+               "raw":"Iraq vs. Norway, 6 p.m.",
+               "home":"Iraq",
+               "away":"Norway",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"6 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Tuesday, June 16"
+            },
+            {
+               "raw":"France vs. Iraq, 5 p.m.",
+               "home":"France",
+               "away":"Iraq",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"5 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Monday, June 22"
+            },
+            {
+               "raw":"Norway vs. Senegal, 8 p.m.",
+               "home":"Norway",
+               "away":"Senegal",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"8 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Monday, June 22"
+            },
+            {
+               "raw":"Norway vs. France, 3 p.m.",
+               "home":"Norway",
+               "away":"France",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Friday, June 26"
+            },
+            {
+               "raw":"Senegal vs. Iraq, 3 p.m.",
+               "home":"Senegal",
+               "away":"Iraq",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"3 p.m.",
+               "status":"scheduled",
+               "section":"Group I",
+               "date":"Friday, June 26"
+            }
+         ]
+      },
+      "J":{
+         "name":"Group J",
+         "standings":[
+            {
+               "team":"Argentina",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Algeria",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Austria",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Jordan",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Argentina vs. Algeria, 9 p.m.",
+               "home":"Argentina",
+               "away":"Algeria",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"9 p.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Tuesday, June 16"
+            },
+            {
+               "raw":"Austria vs. Jordan, 12 a.m.",
+               "home":"Austria",
+               "away":"Jordan",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"12 a.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Wednesday, June 17"
+            },
+            {
+               "raw":"Argentina vs. Austria, 1 p.m.",
+               "home":"Argentina",
+               "away":"Austria",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"1 p.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Monday, June 22"
+            },
+            {
+               "raw":"Jordan vs. Algeria, 11 p.m.",
+               "home":"Jordan",
+               "away":"Algeria",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"11 p.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Monday, June 22"
+            },
+            {
+               "raw":"Jordan vs. Argentina, 10 p.m.",
+               "home":"Jordan",
+               "away":"Argentina",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Saturday, June 27"
+            },
+            {
+               "raw":"Algeria vs. Austria, 10 p.m.",
+               "home":"Algeria",
+               "away":"Austria",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group J",
+               "date":"Saturday, June 27"
+            }
+         ]
+      },
+      "K":{
+         "name":"Group K",
+         "standings":[
+            {
+               "team":"Portugal",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Congo DR",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Uzbekistan",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Colombia",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"Portugal vs. Congo DR, 1 p.m.",
+               "home":"Portugal",
+               "away":"Congo DR",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"1 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Wednesday, June 17"
+            },
+            {
+               "raw":"Uzbekistan vs. Colombia, 10 p.m.",
+               "home":"Uzbekistan",
+               "away":"Colombia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Wednesday, June 17"
+            },
+            {
+               "raw":"Portugal vs. Uzbekistan, 1 p.m.",
+               "home":"Portugal",
+               "away":"Uzbekistan",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"1 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Tuesday, June 23"
+            },
+            {
+               "raw":"Colombia vs. Congo DR, 10 p.m.",
+               "home":"Colombia",
+               "away":"Congo DR",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"10 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Tuesday, June 23"
+            },
+            {
+               "raw":"Colombia vs. Portugal, 7:30 p.m.",
+               "home":"Colombia",
+               "away":"Portugal",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7:30 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Saturday, June 27"
+            },
+            {
+               "raw":"Congo DR vs. Uzbekistan, 7:30 p.m.",
+               "home":"Congo DR",
+               "away":"Uzbekistan",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7:30 p.m.",
+               "status":"scheduled",
+               "section":"Group K",
+               "date":"Saturday, June 27"
+            }
+         ]
+      },
+      "L":{
+         "name":"Group L",
+         "standings":[
+            {
+               "team":"England",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Croatia",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Ghana",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            },
+            {
+               "team":"Panama",
+               "gp":0,
+               "w":0,
+               "d":0,
+               "l":0,
+               "gf":0,
+               "ga":0,
+               "pts":0
+            }
+         ],
+         "matches":[
+            {
+               "raw":"England vs. Croatia, 4 p.m.",
+               "home":"England",
+               "away":"Croatia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"4 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Wednesday, June 17"
+            },
+            {
+               "raw":"Ghana vs. Panama, 7 p.m.",
+               "home":"Ghana",
+               "away":"Panama",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Wednesday, June 17"
+            },
+            {
+               "raw":"England vs. Ghana, 4 p.m.",
+               "home":"England",
+               "away":"Ghana",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"4 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Tuesday, June 23"
+            },
+            {
+               "raw":"Panama vs. Croatia, 7 p.m.",
+               "home":"Panama",
+               "away":"Croatia",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"7 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Tuesday, June 23"
+            },
+            {
+               "raw":"Panama vs. England, 5 p.m.",
+               "home":"Panama",
+               "away":"England",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"5 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Saturday, June 27"
+            },
+            {
+               "raw":"Croatia vs. Ghana, 5 p.m.",
+               "home":"Croatia",
+               "away":"Ghana",
+               "homeScore":null,
+               "awayScore":null,
+               "time":"5 p.m.",
+               "status":"scheduled",
+               "section":"Group L",
+               "date":"Saturday, June 27"
+            }
+         ]
+      }
+   },
+   "matches":[
+      {
+         "raw":"Mexico 2, South Africa 0",
+         "home":"Mexico",
+         "away":"South Africa",
+         "homeScore":2,
+         "awayScore":0,
+         "time":"",
+         "status":"final",
+         "section":"Group A",
+         "date":"Thursday, June 11"
+      },
+      {
+         "raw":"Korea Republic (Republic of Korea) 2, Czechia 1",
+         "home":"Korea Republic",
+         "away":"Czechia",
+         "homeScore":2,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group A",
+         "date":"Thursday, June 11"
+      },
+      {
+         "raw":"Czechia vs. South Africa, 12 p.m.",
+         "home":"Czechia",
+         "away":"South Africa",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 p.m.",
+         "status":"scheduled",
+         "section":"Group A",
+         "date":"Thursday, June 18"
+      },
+      {
+         "raw":"Mexico vs. Korea Republic (Republic of Korea), 9 p.m.",
+         "home":"Mexico",
+         "away":"Korea Republic",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group A",
+         "date":"Thursday, June 18"
+      },
+      {
+         "raw":"Czechia vs. Mexico, 9 p.m.",
+         "home":"Czechia",
+         "away":"Mexico",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group A",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"South Africa vs. Korea Republic (Republic of Korea), 9 p.m.",
+         "home":"South Africa",
+         "away":"Korea Republic",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group A",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"Canada 1, Bosnia and Herzegovina (Bosnia & Herzegovina) 1",
+         "home":"Canada",
+         "away":"Bosnia and Herzegovina",
+         "homeScore":1,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group B",
+         "date":"Friday, June 12"
+      },
+      {
+         "raw":"Qatar 1, Switzerland 1",
+         "home":"Qatar",
+         "away":"Switzerland",
+         "homeScore":1,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group B",
+         "date":"Saturday, June 13"
+      },
+      {
+         "raw":"Switzerland vs. Bosnia and Herzegovina (Bosnia & Herzegovina), 3 p.m.",
+         "home":"Switzerland",
+         "away":"Bosnia and Herzegovina",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group B",
+         "date":"Thursday, June 18"
+      },
+      {
+         "raw":"Canada vs. Qatar, 6 p.m.",
+         "home":"Canada",
+         "away":"Qatar",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group B",
+         "date":"Thursday, June 18"
+      },
+      {
+         "raw":"Switzerland vs. Canada, 3 p.m.",
+         "home":"Switzerland",
+         "away":"Canada",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group B",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"Bosnia and Herzegovina (Bosnia & Herzegovina) vs. Qatar, 3 p.m.",
+         "home":"Bosnia and Herzegovina",
+         "away":"Qatar",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group B",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"Brazil 1, Morocco 1",
+         "home":"Brazil",
+         "away":"Morocco",
+         "homeScore":1,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group C",
+         "date":"Saturday, June 13"
+      },
+      {
+         "raw":"Haiti 0, Scotland 1",
+         "home":"Haiti",
+         "away":"Scotland",
+         "homeScore":0,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group C",
+         "date":"Saturday, June 13"
+      },
+      {
+         "raw":"Scotland vs. Morocco, 6 p.m.",
+         "home":"Scotland",
+         "away":"Morocco",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group C",
+         "date":"Friday, June 19"
+      },
+      {
+         "raw":"Brazil vs. Haiti, 8:30 p.m.",
+         "home":"Brazil",
+         "away":"Haiti",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8:30 p.m.",
+         "status":"scheduled",
+         "section":"Group C",
+         "date":"Friday, June 19"
+      },
+      {
+         "raw":"Scotland vs. Brazil, 6 p.m.",
+         "home":"Scotland",
+         "away":"Brazil",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group C",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"Morocco vs. Haiti, 6 p.m.",
+         "home":"Morocco",
+         "away":"Haiti",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group C",
+         "date":"Wednesday, June 24"
+      },
+      {
+         "raw":"United States 4, Paraguay 1",
+         "home":"United States",
+         "away":"Paraguay",
+         "homeScore":4,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group D",
+         "date":"Friday, June 12"
+      },
+      {
+         "raw":"Australia 2, Turkey (Turkiye) 0",
+         "home":"Australia",
+         "away":"Turkey",
+         "homeScore":2,
+         "awayScore":0,
+         "time":"",
+         "status":"final",
+         "section":"Group D",
+         "date":"Sunday, June 14"
+      },
+      {
+         "raw":"United States vs. Australia, 3 p.m.",
+         "home":"United States",
+         "away":"Australia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group D",
+         "date":"Friday, June 19"
+      },
+      {
+         "raw":"Turkey (Turkiye) vs. Paraguay, 11 p.m.",
+         "home":"Turkey",
+         "away":"Paraguay",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"11 p.m.",
+         "status":"scheduled",
+         "section":"Group D",
+         "date":"Friday, June 19"
+      },
+      {
+         "raw":"Turkey (Turkiye) vs. United States, 10 p.m.",
+         "home":"Turkey",
+         "away":"United States",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group D",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Paraguay vs. Australia, 10 p.m.",
+         "home":"Paraguay",
+         "away":"Australia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group D",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Germany 7, Curacao 1",
+         "home":"Germany",
+         "away":"Curacao",
+         "homeScore":7,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group E",
+         "date":"Sunday, June 14"
+      },
+      {
+         "raw":"Ivory Coast (Cote d’Ivoire) 1, Ecuador 0",
+         "home":"Ivory Coast",
+         "away":"Ecuador",
+         "homeScore":1,
+         "awayScore":0,
+         "time":"",
+         "status":"final",
+         "section":"Group E",
+         "date":"Sunday, June 14"
+      },
+      {
+         "raw":"Germany vs. Ivory Coast (Cote d’Ivoire), 4 p.m.",
+         "home":"Germany",
+         "away":"Ivory Coast",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Group E",
+         "date":"Saturday, June 20"
+      },
+      {
+         "raw":"Ecuador vs. Curacao, 8 p.m.",
+         "home":"Ecuador",
+         "away":"Curacao",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Group E",
+         "date":"Saturday, June 20"
+      },
+      {
+         "raw":"Ecuador vs. Germany, 4 p.m.",
+         "home":"Ecuador",
+         "away":"Germany",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Group E",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Curacao vs. Ivory Coast (Cote d’Ivoire), 4 p.m.",
+         "home":"Curacao",
+         "away":"Ivory Coast",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Group E",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Netherlands 2, Japan 2",
+         "home":"Netherlands",
+         "away":"Japan",
+         "homeScore":2,
+         "awayScore":2,
+         "time":"",
+         "status":"final",
+         "section":"Group F",
+         "date":"Sunday, June 14"
+      },
+      {
+         "raw":"Sweden 5, Tunisia 1",
+         "home":"Sweden",
+         "away":"Tunisia",
+         "homeScore":5,
+         "awayScore":1,
+         "time":"",
+         "status":"final",
+         "section":"Group F",
+         "date":"Sunday, June 14"
+      },
+      {
+         "raw":"Netherlands vs. Sweden, 1 p.m.",
+         "home":"Netherlands",
+         "away":"Sweden",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Group F",
+         "date":"Saturday, June 20"
+      },
+      {
+         "raw":"Tunisia vs. Japan, 12 a.m.",
+         "home":"Tunisia",
+         "away":"Japan",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 a.m.",
+         "status":"scheduled",
+         "section":"Group F",
+         "date":"Sunday, June 21"
+      },
+      {
+         "raw":"Tunisia vs. Netherlands, 7 p.m.",
+         "home":"Tunisia",
+         "away":"Netherlands",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7 p.m.",
+         "status":"scheduled",
+         "section":"Group F",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Japan vs. Sweden, 7 p.m.",
+         "home":"Japan",
+         "away":"Sweden",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7 p.m.",
+         "status":"scheduled",
+         "section":"Group F",
+         "date":"Thursday, June 25"
+      },
+      {
+         "raw":"Belgium vs. Egypt, 3 p.m.",
+         "home":"Belgium",
+         "away":"Egypt",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Monday, June 15"
+      },
+      {
+         "raw":"IR Iran (Iran) vs. New Zealand, 9 p.m.",
+         "home":"IR Iran",
+         "away":"New Zealand",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Monday, June 15"
+      },
+      {
+         "raw":"Belgium vs. IR Iran (Iran), 3 p.m.",
+         "home":"Belgium",
+         "away":"IR Iran",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Sunday, June 21"
+      },
+      {
+         "raw":"New Zealand vs. Egypt, 9 p.m.",
+         "home":"New Zealand",
+         "away":"Egypt",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Sunday, June 21"
+      },
+      {
+         "raw":"New Zealand vs. Belgium, 11 p.m.",
+         "home":"New Zealand",
+         "away":"Belgium",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"11 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"Egypt vs. IR Iran (Iran), 11 p.m.",
+         "home":"Egypt",
+         "away":"IR Iran",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"11 p.m.",
+         "status":"scheduled",
+         "section":"Group G",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"Spain vs. Cape Verde, 12 p.m.",
+         "home":"Spain",
+         "away":"Cape Verde",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Monday, June 15"
+      },
+      {
+         "raw":"Saudi Arabia vs. Uruguay, 6 p.m.",
+         "home":"Saudi Arabia",
+         "away":"Uruguay",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Monday, June 15"
+      },
+      {
+         "raw":"Spain vs. Saudi Arabia, 12 p.m.",
+         "home":"Spain",
+         "away":"Saudi Arabia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Sunday, June 21"
+      },
+      {
+         "raw":"Uruguay vs. Cape Verde, 6 p.m.",
+         "home":"Uruguay",
+         "away":"Cape Verde",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Sunday, June 21"
+      },
+      {
+         "raw":"Uruguay vs. Spain, 8 p.m.",
+         "home":"Uruguay",
+         "away":"Spain",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"Cape Verde vs. Saudi Arabia, 8 p.m.",
+         "home":"Cape Verde",
+         "away":"Saudi Arabia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Group H",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"France vs. Senegal, 3 p.m.",
+         "home":"France",
+         "away":"Senegal",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Tuesday, June 16"
+      },
+      {
+         "raw":"Iraq vs. Norway, 6 p.m.",
+         "home":"Iraq",
+         "away":"Norway",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Tuesday, June 16"
+      },
+      {
+         "raw":"France vs. Iraq, 5 p.m.",
+         "home":"France",
+         "away":"Iraq",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Monday, June 22"
+      },
+      {
+         "raw":"Norway vs. Senegal, 8 p.m.",
+         "home":"Norway",
+         "away":"Senegal",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Monday, June 22"
+      },
+      {
+         "raw":"Norway vs. France, 3 p.m.",
+         "home":"Norway",
+         "away":"France",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"Senegal vs. Iraq, 3 p.m.",
+         "home":"Senegal",
+         "away":"Iraq",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Group I",
+         "date":"Friday, June 26"
+      },
+      {
+         "raw":"Argentina vs. Algeria, 9 p.m.",
+         "home":"Argentina",
+         "away":"Algeria",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Tuesday, June 16"
+      },
+      {
+         "raw":"Austria vs. Jordan, 12 a.m.",
+         "home":"Austria",
+         "away":"Jordan",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 a.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Wednesday, June 17"
+      },
+      {
+         "raw":"Argentina vs. Austria, 1 p.m.",
+         "home":"Argentina",
+         "away":"Austria",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Monday, June 22"
+      },
+      {
+         "raw":"Jordan vs. Algeria, 11 p.m.",
+         "home":"Jordan",
+         "away":"Algeria",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"11 p.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Monday, June 22"
+      },
+      {
+         "raw":"Jordan vs. Argentina, 10 p.m.",
+         "home":"Jordan",
+         "away":"Argentina",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"Algeria vs. Austria, 10 p.m.",
+         "home":"Algeria",
+         "away":"Austria",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group J",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"Portugal vs. Congo DR, 1 p.m.",
+         "home":"Portugal",
+         "away":"Congo DR",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Wednesday, June 17"
+      },
+      {
+         "raw":"Uzbekistan vs. Colombia, 10 p.m.",
+         "home":"Uzbekistan",
+         "away":"Colombia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Wednesday, June 17"
+      },
+      {
+         "raw":"Portugal vs. Uzbekistan, 1 p.m.",
+         "home":"Portugal",
+         "away":"Uzbekistan",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Tuesday, June 23"
+      },
+      {
+         "raw":"Colombia vs. Congo DR, 10 p.m.",
+         "home":"Colombia",
+         "away":"Congo DR",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"10 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Tuesday, June 23"
+      },
+      {
+         "raw":"Colombia vs. Portugal, 7:30 p.m.",
+         "home":"Colombia",
+         "away":"Portugal",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7:30 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"Congo DR vs. Uzbekistan, 7:30 p.m.",
+         "home":"Congo DR",
+         "away":"Uzbekistan",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7:30 p.m.",
+         "status":"scheduled",
+         "section":"Group K",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"England vs. Croatia, 4 p.m.",
+         "home":"England",
+         "away":"Croatia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Wednesday, June 17"
+      },
+      {
+         "raw":"Ghana vs. Panama, 7 p.m.",
+         "home":"Ghana",
+         "away":"Panama",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Wednesday, June 17"
+      },
+      {
+         "raw":"England vs. Ghana, 4 p.m.",
+         "home":"England",
+         "away":"Ghana",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Tuesday, June 23"
+      },
+      {
+         "raw":"Panama vs. Croatia, 7 p.m.",
+         "home":"Panama",
+         "away":"Croatia",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Tuesday, June 23"
+      },
+      {
+         "raw":"Panama vs. England, 5 p.m.",
+         "home":"Panama",
+         "away":"England",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"Croatia vs. Ghana, 5 p.m.",
+         "home":"Croatia",
+         "away":"Ghana",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Group L",
+         "date":"Saturday, June 27"
+      },
+      {
+         "raw":"2A () vs. 2B (), 3 p.m.",
+         "home":"2A",
+         "away":"2B",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Sunday, June 28"
+      },
+      {
+         "raw":"1C () vs. 2F (), 1 p.m.",
+         "home":"1C",
+         "away":"2F",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Monday, June 29"
+      },
+      {
+         "raw":"1E () vs. 3A/3B/3C/3D/3F (), 4:30 p.m.",
+         "home":"1E",
+         "away":"3A/3B/3C/3D/3F",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4:30 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Monday, June 29"
+      },
+      {
+         "raw":"1F () vs. 2C (), 9 p.m.",
+         "home":"1F",
+         "away":"2C",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Monday, June 29"
+      },
+      {
+         "raw":"2E () vs. 2I (), 1 p.m.",
+         "home":"2E",
+         "away":"2I",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Tuesday, June 30"
+      },
+      {
+         "raw":"1I () vs. 3C/3D/3F/3G/3H (), 5 p.m.",
+         "home":"1I",
+         "away":"3C/3D/3F/3G/3H",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Tuesday, June 30"
+      },
+      {
+         "raw":"1A () vs. 3C/3E/3F/3H/3I (), 9 p.m.",
+         "home":"1A",
+         "away":"3C/3E/3F/3H/3I",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Tuesday, June 30"
+      },
+      {
+         "raw":"1L () vs. 3E/3H/3I/3J/3K (), 12 p.m.",
+         "home":"1L",
+         "away":"3E/3H/3I/3J/3K",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Wednesday, July 1"
+      },
+      {
+         "raw":"1G () vs. 3A/3E/3H/3I/3J (), 4 p.m.",
+         "home":"1G",
+         "away":"3A/3E/3H/3I/3J",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Wednesday, July 1"
+      },
+      {
+         "raw":"1D () vs. 3B/3E/3F/3I/3J (), 8 p.m.",
+         "home":"1D",
+         "away":"3B/3E/3F/3I/3J",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Wednesday, July 1"
+      },
+      {
+         "raw":"1H () vs. 2J (), 3 p.m.",
+         "home":"1H",
+         "away":"2J",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Thursday, July 2"
+      },
+      {
+         "raw":"2K () vs. 2L (), 7 p.m.",
+         "home":"2K",
+         "away":"2L",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"7 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Thursday, July 2"
+      },
+      {
+         "raw":"1B () vs. 3E/3F/3G/3I/3J (), 11 p.m.",
+         "home":"1B",
+         "away":"3E/3F/3G/3I/3J",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"11 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Thursday, July 2"
+      },
+      {
+         "raw":"2D () vs. 2G (), 2 p.m.",
+         "home":"2D",
+         "away":"2G",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"2 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Friday, July 3"
+      },
+      {
+         "raw":"1J () vs. 2H (), 6 p.m.",
+         "home":"1J",
+         "away":"2H",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"6 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Friday, July 3"
+      },
+      {
+         "raw":"1K () vs. 3D/3E/3I/3J/3L (), 9:30 p.m.",
+         "home":"1K",
+         "away":"3D/3E/3I/3J/3L",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9:30 p.m.",
+         "status":"scheduled",
+         "section":"Round of 32",
+         "date":"Friday, July 3"
+      },
+      {
+         "raw":"W73 () vs. W75 (), 1 p.m.",
+         "home":"W73",
+         "away":"W75",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"1 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Saturday, July 4"
+      },
+      {
+         "raw":"W74 () vs. W77 (), 5 p.m.",
+         "home":"W74",
+         "away":"W77",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Saturday, July 4"
+      },
+      {
+         "raw":"W76 () vs. W78 (), 4 p.m.",
+         "home":"W76",
+         "away":"W78",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Sunday, July 5"
+      },
+      {
+         "raw":"W79 () vs. W80 (), 8 p.m.",
+         "home":"W79",
+         "away":"W80",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Sunday, July 5"
+      },
+      {
+         "raw":"W83 () vs. W84 (), 3 p.m.",
+         "home":"W83",
+         "away":"W84",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Monday, July 6"
+      },
+      {
+         "raw":"W81 () vs. W82 (), 8 p.m.",
+         "home":"W81",
+         "away":"W82",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"8 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Monday, July 6"
+      },
+      {
+         "raw":"W86 () vs. W88 (), 12 p.m.",
+         "home":"W86",
+         "away":"W88",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"12 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Tuesday, July 7"
+      },
+      {
+         "raw":"W85 () vs. W87 (), 4 p.m.",
+         "home":"W85",
+         "away":"W87",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Round of 16",
+         "date":"Tuesday, July 7"
+      },
+      {
+         "raw":"W89 () vs. W90 (), 4 p.m.",
+         "home":"W89",
+         "away":"W90",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"4 p.m.",
+         "status":"scheduled",
+         "section":"Quarterfinal",
+         "date":"Thursday, July 9"
+      },
+      {
+         "raw":"W93 () vs. W94 (), 3 p.m.",
+         "home":"W93",
+         "away":"W94",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Quarterfinal",
+         "date":"Friday, July 10"
+      },
+      {
+         "raw":"W91 () vs. W92 (), 5 p.m.",
+         "home":"W91",
+         "away":"W92",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"Quarterfinal",
+         "date":"Saturday, July 11"
+      },
+      {
+         "raw":"W95 () vs. W96 (), 9 p.m.",
+         "home":"W95",
+         "away":"W96",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"9 p.m.",
+         "status":"scheduled",
+         "section":"Quarterfinal",
+         "date":"Saturday, July 11"
+      },
+      {
+         "raw":"W97 () vs. W98 (), 3 p.m.",
+         "home":"W97",
+         "away":"W98",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Semifinal",
+         "date":"Tuesday, July 14"
+      },
+      {
+         "raw":"W99 () vs. W100 (), 3 p.m.",
+         "home":"W99",
+         "away":"W100",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Semifinal",
+         "date":"Wednesday, July 15"
+      },
+      {
+         "raw":"RU101 () vs. RU102 (), 5 p.m.",
+         "home":"RU101",
+         "away":"RU102",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"5 p.m.",
+         "status":"scheduled",
+         "section":"3Rd Place Playoff",
+         "date":"Saturday, July 18"
+      },
+      {
+         "raw":"W101 () vs. W102 (), 3 p.m.",
+         "home":"W101",
+         "away":"W102",
+         "homeScore":null,
+         "awayScore":null,
+         "time":"3 p.m.",
+         "status":"scheduled",
+         "section":"Final",
+         "date":"Sunday, July 19"
+      }
+   ]
+}
